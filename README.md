@@ -1,44 +1,59 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Aryan Singh</h1>
-<h3 align="center">A passionate AI/ML developer from India</h3>
+<h3 align="center">🚀 Passionate AI/ML Developer | Python Enthusiast | Deep Learning Explorer</h3>
 
-<div style="display: flex; align-items: center;">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding" width="250" style="margin-right: 20px;" align="left">
+<img align="left" alt="Coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-  <p>
-  - 🔭 I’m currently working on <strong>Artificial Intelligence</strong> <br>
-  - 🌱 I’m currently learning <strong>Python Advanced with Python Pro Bootcamp with Dr. Angela Yu</strong> <br>
-  - 👯 I’m looking to collaborate on <strong>TensorFlow</strong> <br>
-  - 🤝 I’m looking for help with <strong>AI and ML projects</strong> <br>
-  - 💬 Ask me about <strong>C++, C, JAVA, HTML, CSS, JavaScript, and Golang</strong> <br>
-  - 📫 How to reach me: <strong>192aryansingh@gmail.com</strong>
-  </p>
-</div>
+- 🔍 Exploring the depths of **Generative AI**, **RAG Pipelines**, and **ML Agents**
+- 🧠 Currently building intelligent applications using **TensorFlow, LangChain & HuggingFace**
+- 👨‍💻 Focused on projects like: AI-powered chatbots, toxicity detection, ML dashboards & more!
+- 💡 Always learning — latest: **Advanced Python with Dr. Angela Yu**
+- 🤝 Open to collaborations in **NLP**, **Computer Vision**, and **Deep Learning**
+- 📫 Reach me at: **192aryansingh@gmail.com**
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/192aryansingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="192aryansingh" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/aryan singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan singh" height="30" width="40" /></a>
-  <a href="https://instagram.com/aryansingh_192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryansingh_192" height="30" width="40" /></a>
+<h3>🌐 Connect with me</h3>
+
+[![LinkedIn](https://img.shields.io/badge/-Aryan%20Singh-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-singh-939a2723a/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/192aryansingh)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aryansingh_192)
+
+---
+
+<h3>⚙️ Tech Stack & Tools</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LangChain-0A192F?style=for-the-badge&logo=LangChain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<h3>📈 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryan192&show_icons=true&theme=radical" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryan192&theme=radical" width="47%"/>
 </p>
+
+---
+
+<h3>🛠️ Projects I'm Proud Of</h3>
+
+- 🤖 **AI Chatbot with Mistral + RAG** – Website content-based retrieval using similarity search
+- 🧪 **Toxic Comment Detector** – Deep learning model with Gradio UI & Kaggle dataset
+- 📊 **Student Dashboard (Django)** – Management system for academic progress and resources
+- 🎯 **Alumni Platform (MERN)** – End-to-end smart portal for job, mentorship & engagement
+
+---
+
+Thank you for visiting! 🚀
